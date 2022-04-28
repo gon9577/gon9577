@@ -1,6 +1,8 @@
 9조 김은총 최재혁 김성곤
 
 <김은총 : https://github.com/GraceKim99/Gracekim99>
+<최재혁 : https://github.com/Choijaehyuck9>
+
 
 <img src="https://img.shields.io/badge/instargram-FF3366?style=flat-square&logo=#E4405F&logoColor=white"/>
 
