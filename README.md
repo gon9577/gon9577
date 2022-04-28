@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![gon9577 GitHub stats](https://github.com/gon9577)
+![gon9577 GitHub stats](https://github-readme-stats.vercel.app/api?username=gon9577)](https://github.com/gon9577/github-readme-stats)
 
 
