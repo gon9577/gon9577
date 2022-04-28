@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![gon9577 GitHub stats](https://github-readme-stats.vercel.app/api?username=gon9577)](https://github.com/gon9577/github-readme-stats)
+![gon9577 GitHub stats](https://github-readme-stats.vercel.app/api?username=gon9577)]
 
 We aim to implement deteriorated algorithms for presenting answers through deep learning through c./% In twenty questions, a popular game, the interaction between the questioner and the answer resembles the relationship between the data provider and the deep runner. So, inspired by this, we decided to write a function that allows us to learn the principles of deep learning through primitive algorithms Questioner (Deep Runner) If you get enough answers to your questions, The questioner can give the answer that the player thinks. A good enough answer here means a good amount of data.
 
