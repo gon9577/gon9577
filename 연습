@@ -1,0 +1,9 @@
+#include <iostream> 
+using namespace std;
+ 
+int main(void)
+{
+    cout << "Hello World kim seong gon " << endl;
+    
+    return 0;
+}
